@@ -445,10 +445,10 @@
           },
           {
             "name": "Uno Ice Diamonds",
-            "by": "de Grisogono",
+            "by": "De Grisogono",
             "brands": [
               {
-                "name": "de Grisogono",
+                "name": "De Grisogono",
                 "role": "primary",
                 "group": "Independent"
               }
@@ -1142,7 +1142,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false
@@ -1366,10 +1366,10 @@
           },
           {
             "name": "BICHRONO",
-            "by": "deLaCour",
+            "by": "DeLaCour",
             "brands": [
               {
-                "name": "deLaCour",
+                "name": "DeLaCour",
                 "role": "primary",
                 "group": "Independent"
               }
@@ -2770,7 +2770,7 @@
             "is_collaboration": false
           },
           {
-            "name": "BIG BANG Red Gold",
+            "name": "Big Bang Red Gold",
             "by": "Hublot",
             "brands": [
               {
@@ -2884,7 +2884,7 @@
             "is_collaboration": false
           },
           {
-            "name": "BIG BANG White Ceramik",
+            "name": "Big Bang White Ceramik",
             "by": "Hublot",
             "winner": true,
             "brands": [
@@ -2952,10 +2952,10 @@
         "watches": [
           {
             "name": "La Liberata",
-            "by": "deLaCour",
+            "by": "DeLaCour",
             "brands": [
               {
-                "name": "deLaCour",
+                "name": "DeLaCour",
                 "role": "primary",
                 "group": "Independent"
               }
@@ -3723,10 +3723,10 @@
           },
           {
             "name": "FG One N02",
-            "by": "de Grisogono",
+            "by": "De Grisogono",
             "brands": [
               {
-                "name": "de Grisogono",
+                "name": "De Grisogono",
                 "role": "primary",
                 "group": "Independent"
               }
@@ -3849,10 +3849,10 @@
           },
           {
             "name": "Lipstick CY S24D",
-            "by": "de Grisogono",
+            "by": "De Grisogono",
             "brands": [
               {
-                "name": "de Grisogono",
+                "name": "De Grisogono",
                 "role": "primary",
                 "group": "Independent"
               }
@@ -4856,10 +4856,10 @@
           },
           {
             "name": "Antille",
-            "by": "deLaCour",
+            "by": "DeLaCour",
             "brands": [
               {
-                "name": "deLaCour",
+                "name": "DeLaCour",
                 "role": "primary",
                 "group": "Independent"
               }
@@ -4885,7 +4885,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false
@@ -5402,10 +5402,10 @@
           },
           {
             "name": "Instrumento Novantatre Quantième Annuel",
-            "by": "de Grisogono",
+            "by": "De Grisogono",
             "brands": [
               {
-                "name": "de Grisogono",
+                "name": "De Grisogono",
                 "role": "primary",
                 "group": "Independent"
               }
@@ -6103,7 +6103,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false
@@ -6751,10 +6751,10 @@
           },
           {
             "name": "Meccanico dG N03 Titane",
-            "by": "de Grisogono",
+            "by": "De Grisogono",
             "brands": [
               {
-                "name": "de Grisogono",
+                "name": "De Grisogono",
                 "role": "primary",
                 "group": "Independent"
               }
@@ -6957,11 +6957,11 @@
         "watches": [
           {
             "name": "Meccanico dG N03 Titane",
-            "by": "de Grisogono",
+            "by": "De Grisogono",
             "winner": true,
             "brands": [
               {
-                "name": "de Grisogono",
+                "name": "De Grisogono",
                 "role": "primary",
                 "group": "Independent"
               }
@@ -7454,7 +7454,7 @@
             "is_collaboration": false
           },
           {
-            "name": "Big bang One Million  38mm",
+            "name": "Big Bang One Million  38mm",
             "by": "Hublot",
             "brands": [
               {
@@ -8161,7 +8161,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false
@@ -8990,7 +8990,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false
@@ -9098,7 +9098,7 @@
             "is_collaboration": false
           },
           {
-            "name": "Grande Montre dAviateur Calendrier Perpétuel TOP GUN",
+            "name": "Big Pilot’s Watch Perpetual Calendar TOP GUN",
             "by": "IWC Schaffhausen",
             "brands": [
               {
@@ -9407,7 +9407,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false
@@ -10013,7 +10013,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false
@@ -10103,7 +10103,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false
@@ -10461,7 +10461,7 @@
             "is_collaboration": false
           },
           {
-            "name": "LHeure du Diamant",
+            "name": "L'heure du Diamant",
             "by": "Chopard",
             "winner": true,
             "brands": [
@@ -10559,7 +10559,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false
@@ -10920,10 +10920,10 @@
           },
           {
             "name": "Allegra",
-            "by": "de Grisogono",
+            "by": "De Grisogono",
             "brands": [
               {
-                "name": "de Grisogono",
+                "name": "De Grisogono",
                 "role": "primary",
                 "group": "Independent"
               }
@@ -11787,7 +11787,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false
@@ -11841,7 +11841,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false
@@ -11985,16 +11985,17 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2015_pivoine_01_fb9cc0e0f0.jpg"
           },
           {
-            "name": "Arceau Petite Lune sertie",
+            "name": "Arceau Petite Lune with diamonds",
             "by": "Hermès",
             "brands": [
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2015_arceau_petite_lune_sertie_01_3c1d289c9e.jpg"
           },
           {
             "name": "Big Bang Broderie",
@@ -12056,7 +12057,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2015_il_giardino_notturno_01_2e5b8d4977.jpg"
           },
           {
-            "name": "Complication Créative Hortensia",
+            "name": "Hortensia Creative Complication",
             "by": "Chaumet",
             "brands": [
               {
@@ -12065,7 +12066,8 @@
                 "group": "LVMH"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2015_hortensia_01_7847782d78.jpg"
           },
           {
             "name": "Lady Compliquée Peacock",
@@ -12418,14 +12420,14 @@
             "is_collaboration": false
           },
           {
-            "name": "Slim dHermès QP",
+            "name": "Slim d'Hermès QP",
             "by": "Hermès",
             "winner": true,
             "brands": [
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -12445,7 +12447,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2015_classic_fusion_aeromoon_01_0_6a292577b9.jpg"
           },
           {
-            "name": "CT60 Calendrier Annuel",
+            "name": "CT60™ Annual Calendar",
             "by": "Tiffany & Co.",
             "brands": [
               {
@@ -12454,7 +12456,8 @@
                 "group": "LVMH"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2015_ct60_annual_calendar_01_3e16635234.jpg"
           },
           {
             "name": "FreakLab",
@@ -12695,17 +12698,17 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2015_felix_01_0bdc678ec7.jpg"
           },
           {
-            "name": "Slim dHermès",
+            "name": "Slim d'Hermès",
             "by": "Hermès",
             "brands": [
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
-            "image": "https://cms.gphg.org/uploads/small_gphg2015_slim_d_hermes_qp_01_be31c04561.jpg"
+            "image": "https://cms.gphg.org/uploads/small_gphg2015_slim_d_hermes_01_129fc67242.jpg"
           },
           {
             "name": "Heritage Spirit Orbis Terrarum",
@@ -12877,10 +12880,10 @@
           },
           {
             "name": "Grappoli",
-            "by": "de Grisogono",
+            "by": "De Grisogono",
             "brands": [
               {
-                "name": "de Grisogono",
+                "name": "De Grisogono",
                 "role": "primary",
                 "group": "Independent"
               }
@@ -12902,7 +12905,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2015_summer_in_provence_multicoloured_sapphire_01_689b084ec9.jpg"
           },
           {
-            "name": "Extremely Piaget Montre Manchette Recto Verso",
+            "name": "Extremely Piaget Double Sided Cuff Watch",
             "by": "Piaget",
             "brands": [
               {
@@ -12911,7 +12914,8 @@
                 "group": "Richemont"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://www.gphg.org/uploads/small_gphg2015_extremely_recto_verso_02_1ad44cc9b7.jpg"
           }
         ],
         "original_name": "Joaillerie"
@@ -12959,17 +12963,17 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2015_premier_precious_butterfly_automatic_01_hd_d040f42297.jpg"
           },
           {
-            "name": "Slim dHermès Koma Kurabé",
+            "name": "Slim d'Hermès Koma Kurabé",
             "by": "Hermès",
             "brands": [
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
-            "image": "https://cms.gphg.org/uploads/small_gphg2015_slim_d_hermes_01_129fc67242.jpg"
+            "image": "https://cms.gphg.org/uploads/small_gphg2015_slim_d_hermes_koma_kurabe_01_9b6d969941.jpg"
           },
           {
             "name": "Altiplano Scrimshaw",
@@ -13023,7 +13027,7 @@
         "name": "Revival Award",
         "watches": [
           {
-            "name": "Extremely Piaget Montre Manchette Recto Verso",
+            "name": "Extremely Piaget Double Sided Cuff Watch",
             "by": "Piaget",
             "winner": true,
             "brands": [
@@ -13033,7 +13037,8 @@
                 "group": "Richemont"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://www.gphg.org/uploads/small_gphg2015_extremely_recto_verso_02_1ad44cc9b7.jpg"
           }
         ],
         "original_name": "Prix Revival"
@@ -13106,19 +13111,6 @@
         "name": "Ladies'",
         "watches": [
           {
-            "name": "Limelight Gala Bracelet Milanais",
-            "by": "Piaget",
-            "winner": true,
-            "brands": [
-              {
-                "name": "Piaget",
-                "role": "primary",
-                "group": "Richemont"
-              }
-            ],
-            "is_collaboration": false
-          },
-          {
             "name": "Blue Thistles",
             "by": "Bovet 1822",
             "brands": [
@@ -13167,6 +13159,7 @@
                 "group": "Richemont"
               }
             ],
+            "winner": true,
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2016_piaget_limelight_gala_bracelet_milanais_01_40aa2e4622.jpg"
           },
@@ -13203,19 +13196,6 @@
         "name": "Ladies' Complication",
         "watches": [
           {
-            "name": "Cats Eye Tourbillon sous Pont dOr",
-            "by": "Girard-Perregaux",
-            "winner": true,
-            "brands": [
-              {
-                "name": "Girard-Perregaux",
-                "role": "primary",
-                "group": "Sowind Group"
-              }
-            ],
-            "is_collaboration": false
-          },
-          {
             "name": "Cats Eye Tourbillon with Gold Bridge",
             "by": "Girard-Perregaux",
             "brands": [
@@ -13225,6 +13205,7 @@
                 "group": "Sowind Group"
               }
             ],
+            "winner": true,
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2016_girard_perregaud_cats_eye_tourbillon_sous_pont_dor_01_33732a27f7.jpg"
           },
@@ -13379,13 +13360,13 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2016_urban_jurgensen_reference_2340_01_d25fafc897.jpg"
           },
           {
-            "name": "Slim dHermès Email",
+            "name": "Slim d'Hermès Email",
             "by": "Hermès",
             "brands": [
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -13804,7 +13785,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2016_audemars_piguet_royal_oak_concept_supersonnerie_01_6ef2b3e7f0.jpg"
           },
           {
-            "name": "Chronomètre Ferdinand Berthoud FB 1",
+            "name": "Chronomètre FB 1.1",
             "by": "Chronométrie Ferdinand Berthoud",
             "brands": [
               {
@@ -13813,7 +13794,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2016_ferdinand_berthoud_chronometre_ferdinand_berthoud_fb_1_1_white_fb_1_1_01_7a176e5de8.jpg"
           },
           {
             "name": "La Montre Monsieur de Chanel",
@@ -13887,17 +13869,17 @@
         "name": "“Petite Aiguille”",
         "watches": [
           {
-            "name": "Slim dHermès",
+            "name": "Slim d'Hermès",
             "by": "Hermès",
             "brands": [
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
-            "image": "https://cms.gphg.org/uploads/small_gphg2016_hermes_slim_dhermes_email_01_7cbae299cb.jpg"
+            "image": "https://cms.gphg.org/uploads/small_gphg2016_hermes_slim_dhermes_01_49d9c38812.jpg"
           },
           {
             "name": "Presage Automatic Chronograph Enamel Dial",
@@ -14070,7 +14052,7 @@
         "name": "Jewellery",
         "watches": [
           {
-            "name": "Montre à Secret Signature Grenat",
+            "name": "Secret Watch \"Signature Grenat\"",
             "by": "Chanel",
             "winner": true,
             "brands": [
@@ -14080,7 +14062,8 @@
                 "group": "Chanel"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://www.gphg.org/uploads/small_gphg2016_chanel_montre_a_secret_signature_grenat_02_250380020e.jpg"
           },
           {
             "name": "Big Bang Impact Bang",
@@ -14148,7 +14131,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2016_voutilainen_scintillante_2016_face_prune_low_res_01_0839fdcd21.jpg"
           },
           {
-            "name": "Secret Watch Signature Grenat",
+            "name": "Secret Watch \"Signature Grenat\"",
             "by": "Chanel",
             "brands": [
               {
@@ -14167,26 +14150,13 @@
         "name": "Artistic Crafts",
         "watches": [
           {
-            "name": "Protocole XXL Secrets & Lights Venise Micro-Mosaïque",
-            "by": "Piaget",
-            "winner": true,
-            "brands": [
-              {
-                "name": "Piaget",
-                "role": "primary",
-                "group": "Richemont"
-              }
-            ],
-            "is_collaboration": false
-          },
-          {
             "name": "Arceau Tigre",
             "by": "Hermès",
             "brands": [
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -14241,6 +14211,7 @@
                 "group": "Richemont"
               }
             ],
+            "winner": "true",
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2016_piaget_protocole_xxl_01_07bc16fb7e.jpg"
           },
@@ -14329,7 +14300,7 @@
         "name": "Ladies'",
         "watches": [
           {
-            "name": "Première Squelette Camélia",
+            "name": "Première Camélia Skeleton",
             "by": "Chanel",
             "winner": true,
             "brands": [
@@ -14339,7 +14310,8 @@
                 "group": "Chanel"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://www.gphg.org/uploads/small_gphg2017_chanel_h5251_blanc_hd01_bee316e957.jpg"
           },
           {
             "name": "Imperiale Moonphase",
@@ -14524,19 +14496,6 @@
         "name": "Men’s",
         "watches": [
           {
-            "name": "Octo Finissimo Automatique",
-            "by": "Bvlgari",
-            "winner": true,
-            "brands": [
-              {
-                "name": "Bvlgari",
-                "role": "primary",
-                "group": "LVMH"
-              }
-            ],
-            "is_collaboration": false
-          },
-          {
             "name": "28ISO Enamel",
             "by": "Voutilainen",
             "brands": [
@@ -14572,6 +14531,7 @@
                 "group": "LVMH"
               }
             ],
+            "winner": true,
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2017_bulgari_102713_002_cre_hd01_dd0c9e03ba.jpg"
           },
@@ -14589,13 +14549,13 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2017_signature_1_greubel_forsey_gphg_2017_soldat_hd01_8975069829.jpg"
           },
           {
-            "name": "Slim dHermès Lheure impatiente",
+            "name": "Slim d'Hermès L'heure impatiente",
             "by": "Hermès",
             "brands": [
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -14719,19 +14679,6 @@
         "name": "Tourbillon",
         "watches": [
           {
-            "name": "Octo Finissimo Tourbillon Squelette",
-            "by": "Bvlgari",
-            "winner": true,
-            "brands": [
-              {
-                "name": "Bvlgari",
-                "role": "primary",
-                "group": "LVMH"
-              }
-            ],
-            "is_collaboration": false
-          },
-          {
             "name": "1740 -The First 8",
             "by": "D.Candaux",
             "brands": [
@@ -14793,6 +14740,7 @@
                 "group": "LVMH"
               }
             ],
+            "winner": true,
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2017_bulgari_102719_octo_finissimo_tourbillon_hd01_ab4d1af084.jpg"
           },
@@ -15142,7 +15090,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -15293,19 +15241,6 @@
         "name": "Jewellery",
         "watches": [
           {
-            "name": "Montre Lotus Blanc",
-            "by": "Chopard",
-            "winner": true,
-            "brands": [
-              {
-                "name": "Chopard",
-                "role": "primary",
-                "group": "Independent"
-              }
-            ],
-            "is_collaboration": false
-          },
-          {
             "name": "Diamond Outrage",
             "by": "Audemars Piguet",
             "brands": [
@@ -15367,6 +15302,7 @@
                 "group": "Independent"
               }
             ],
+            "winner": true,
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2017_chopard_104420_9001a_hd01_1fea4f687b.jpg"
           },
@@ -15469,13 +15405,13 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2017_vacheron_constatin_000g_b226_sdt_1538350_hd01_7bfb55ded7.jpg"
           },
           {
-            "name": "Slim dHermès Promenade de Longchamp",
+            "name": "Slim d'Hermès Promenade de Longchamp",
             "by": "Hermès",
             "brands": [
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -15518,7 +15454,8 @@
                 "group": "LVMH"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://www.gphg.org/uploads/small_gphg2017_27_9000_342_78_r582_01_45a8a45e86.jpg"
           }
         ],
         "original_name": "Prix de l'Innovation"
@@ -15552,7 +15489,7 @@
         "name": "Ladies'",
         "watches": [
           {
-            "name": "Boy-friend Squelette",
+            "name": "Boy-friend Skeleton",
             "by": "Chanel",
             "winner": true,
             "brands": [
@@ -15562,7 +15499,8 @@
                 "group": "Chanel"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://www.gphg.org/uploads/small_gphg2018_chanel_boyfriend_squelette_001_0_daf3f064b3.jpg"
           },
           {
             "name": "Amadéo Fleurier 39 Fan",
@@ -15969,7 +15907,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2018_g_perregaux_laureato_chronograph_001_429a95b324.jpg"
           },
           {
-            "name": "LHeure Bleue",
+            "name": "L'heure Bleue",
             "by": "Czapek Genève",
             "brands": [
               {
@@ -16217,19 +16155,6 @@
         "name": "Sports",
         "watches": [
           {
-            "name": "Recréation de la première montre Seiko Prospex de 1968",
-            "by": "Seiko",
-            "winner": true,
-            "brands": [
-              {
-                "name": "Seiko",
-                "role": "primary",
-                "group": "Seiko Group"
-              }
-            ],
-            "is_collaboration": false
-          },
-          {
             "name": "1858 Pocket Watch Limited Edition 100",
             "by": "Montblanc",
             "brands": [
@@ -16291,6 +16216,7 @@
                 "group": "Seiko Group"
               }
             ],
+            "winner": true,
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2018_seiko_b_001_80685d36ae.jpg"
           },
@@ -16342,10 +16268,10 @@
           },
           {
             "name": "Cascata",
-            "by": "de Grisogono",
+            "by": "De Grisogono",
             "brands": [
               {
-                "name": "de Grisogono",
+                "name": "De Grisogono",
                 "role": "primary",
                 "group": "Independent"
               }
@@ -16419,7 +16345,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -16445,7 +16371,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -16791,13 +16717,13 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2019_classic_fusion_orlinski_001_825b809bc7.jpg"
           },
           {
-            "name": "Galop dHermès",
+            "name": "Galop d'Hermès",
             "by": "Hermès",
             "brands": [
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -17111,7 +17037,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2019_overseas_tourbillon_001_cb69426234.jpg"
           },
           {
-            "name": "Defy El Primero Double Tourbillon",
+            "name": "Defy El Primero 21 Double Tourbillon",
             "by": "Zenith",
             "brands": [
               {
@@ -17120,7 +17046,8 @@
                 "group": "LVMH"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2019_defy_el_primero_double_tourbillon_001_5e2973c291.jpg"
           }
         ],
         "original_name": "Mens Complication"
@@ -17143,7 +17070,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2019_oak_jumbo_001_88ee0e2a39.jpg"
           },
           {
-            "name": "El Primero A384 Revival",
+            "name": "El Primero “50th Anniversary” A384 Revival",
             "by": "Zenith",
             "brands": [
               {
@@ -17152,7 +17079,8 @@
                 "group": "LVMH"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2019_el_primero_a384_revival_001_e6c37bdcef.jpg"
           },
           {
             "name": "Intra-Matic Automatic Chronograph",
@@ -17205,19 +17133,6 @@
             ],
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2019_qasar_001_f7f135b688.jpg"
-          },
-          {
-            "name": "Royal Oak Jumbo Extra-thin",
-            "by": "Audemars Piguet",
-            "brands": [
-              {
-                "name": "Audemars Piguet",
-                "role": "primary",
-                "group": "Independent"
-              }
-            ],
-            "is_collaboration": false,
-            "image": "https://cms.gphg.org/uploads/small_gphg2019_oak_jumbo_001_88ee0e2a39.jpg"
           }
         ],
         "original_name": "Iconic"
@@ -17226,7 +17141,7 @@
         "name": "Chronometry",
         "watches": [
           {
-            "name": "Régulateur acier cémenté",
+            "name": "Carburised steel regulator",
             "by": "Chronométrie Ferdinand Berthoud",
             "winner": true,
             "brands": [
@@ -17236,7 +17151,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2019_regulateur_acier_cemente_001_0_80bd6399c9.jpg"
           },
           {
             "name": "Autavia Isograph",
@@ -17252,7 +17168,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2019_autavia_isograph_001_3061124847.jpg"
           },
           {
-            "name": "Big Pilots Watch Constant-Force Tourbillon Edition Le Petit Prince",
+            "name": "Big Pilot's  Watch Constant-Force Tourbillon Edition Le Petit Prince",
             "by": "IWC Schaffhausen",
             "brands": [
               {
@@ -17323,27 +17239,27 @@
         "name": "Calendar & Astronomy",
         "watches": [
           {
-            "name": "Arceau Lheure de la lune",
+            "name": "Arceau L'heure de la lune",
             "by": "Hermès",
             "winner": true,
             "brands": [
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2019_arceau_l_heure_de_lune_001_0_e9ea9ccc3d.jpg"
           },
           {
-            "name": "Arceau Lheure de la lune",
+            "name": "Arceau L'heure de la lune",
             "by": "Hermès",
             "brands": [
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -17519,19 +17435,6 @@
         "name": "Chronograph",
         "watches": [
           {
-            "name": "Octo Finissimo Chronographe GMT Automatique",
-            "by": "Bvlgari",
-            "winner": true,
-            "brands": [
-              {
-                "name": "Bvlgari",
-                "role": "primary",
-                "group": "LVMH"
-              }
-            ],
-            "is_collaboration": false
-          },
-          {
             "name": "Chronosphère",
             "by": "Louis Moinet",
             "brands": [
@@ -17593,6 +17496,7 @@
                 "group": "LVMH"
               }
             ],
+            "winner": true,
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2019_octo_finissimo_chronograph_001_0_6b0e5ab546.jpg"
           },
@@ -17615,19 +17519,6 @@
       {
         "name": "Diving Watch",
         "watches": [
-          {
-            "name": "Ligne Prospex LX Divers",
-            "by": "Seiko",
-            "winner": true,
-            "brands": [
-              {
-                "name": "Seiko",
-                "role": "primary",
-                "group": "Seiko Group"
-              }
-            ],
-            "is_collaboration": false
-          },
           {
             "name": "DB28GS Grand Bleu",
             "by": "De Bethune",
@@ -17690,6 +17581,7 @@
                 "group": "Seiko Group"
               }
             ],
+            "winner": true,
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2019_seiko_prospex_lx_diver_001_2f15217a1a.jpg"
           },
@@ -17733,7 +17625,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -17831,7 +17723,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -17975,7 +17867,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2019_les_matinaux_001_4919a52a0f.jpg"
           },
           {
-            "name": "Pilot Type 20 Silver",
+            "name": "Pilot Type 20 Full Silver",
             "by": "Zenith",
             "brands": [
               {
@@ -17984,7 +17876,8 @@
                 "group": "LVMH"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2019_pilot_type_20_silver_001_8c6802963c.jpg"
           }
         ],
         "original_name": "Petite Aiguille"
@@ -18077,7 +17970,7 @@
         "name": "Innovation Award",
         "watches": [
           {
-            "name": "Traditionnelle Twin Beat quantième perpétuel",
+            "name": "Traditionnelle Twin Beat perpetual calendar",
             "by": "Vacheron Constantin",
             "winner": true,
             "brands": [
@@ -18087,7 +17980,8 @@
                 "group": "Richemont"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2019_traditionnelle_twinbeat_001_0_502a17998b.jpg"
           }
         ],
         "original_name": "Prix de l'Innovation"
@@ -18181,7 +18075,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -18495,13 +18389,13 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2020_handmade_001_f4124f7434.jpg"
           },
           {
-            "name": "Slim dHermès GMT",
+            "name": "Slim d'Hermès GMT",
             "by": "Hermès",
             "brands": [
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -18527,20 +18421,6 @@
         "name": "Iconic",
         "watches": [
           {
-            "name": "Aluminium Chronographe",
-            "by": "Bvlgari",
-            "winner": true,
-            "brands": [
-              {
-                "name": "Bvlgari",
-                "role": "primary",
-                "group": "LVMH"
-              }
-            ],
-            "is_collaboration": false,
-            "image": "https://cms.gphg.org/uploads/small_gphg2020_aluminium_chronographe_001_8e6b3f40ce.jpg"
-          },
-          {
             "name": "Altiplano Origin Automatic",
             "by": "Piaget",
             "brands": [
@@ -18563,6 +18443,7 @@
                 "group": "LVMH"
               }
             ],
+            "winner": true,
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2020_aluminium_chronographe_001_8e6b3f40ce.jpg"
           },
@@ -18723,19 +18604,6 @@
         "name": "Calendar & Astronomy",
         "watches": [
           {
-            "name": "Overseas Quantième Perpétuel Ultra-Plat Squelette",
-            "by": "Vacheron Constantin",
-            "winner": true,
-            "brands": [
-              {
-                "name": "Vacheron Constantin",
-                "role": "primary",
-                "group": "Richemont"
-              }
-            ],
-            "is_collaboration": false
-          },
-          {
             "name": "Apolar",
             "by": "Behrens",
             "brands": [
@@ -18797,6 +18665,7 @@
                 "group": "Richemont"
               }
             ],
+            "winner": true,
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2020_overseas_quantieme_perpetuel_001_9c807a7f7a.jpg"
           },
@@ -19252,7 +19121,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -19498,9 +19367,8 @@
         "name": "Innovation Award",
         "watches": [
           {
-            "name": "Calendrier Perpétuel Hégirien",
+            "name": "Hijri Perpetual Calendar",
             "by": "Parmigiani Fleurier",
-            "winner": true,
             "brands": [
               {
                 "name": "Parmigiani Fleurier",
@@ -19508,7 +19376,9 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "winner": true,
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2020_hijri_perpetual_calendair_001_a5665bd73e.jpg"
           }
         ],
         "original_name": "Prix de l'Innovation"
@@ -19537,7 +19407,7 @@
         "name": "Horological Revelation",
         "watches": [
           {
-            "name": "Seconde morte",
+            "name": "Dead beat second",
             "by": "Petermann Bédat",
             "winner": true,
             "brands": [
@@ -19547,7 +19417,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://www.gphg.org/uploads/small_gphg2020_seconde_morte_001_c58c0b130c.jpg"
           }
         ],
         "original_name": "prix révélation horlogère"
@@ -19764,7 +19635,7 @@
         "name": "Men’s",
         "watches": [
           {
-            "name": "Calibre 9SA5 Hi-Beat 36000, 80 heures",
+            "name": "Hi-Beat 36000 80 Hours Caliber 9SA5",
             "by": "Grand Seiko",
             "winner": true,
             "brands": [
@@ -19774,7 +19645,8 @@
                 "group": "Seiko Group"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2021_Hibeat_36000_80_hours_Caliber_9sa5_001_3513fd69e8.jpg"
           },
           {
             "name": "Hermès H08",
@@ -19783,7 +19655,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -19821,7 +19693,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2021_La_semaine_Erard_Siberstein_001_727f91c0eb.jpg"
           },
           {
-            "name": "LM101 Stainless Steel",
+            "name": "LM101 Double Hairspring",
             "by": "MB&F",
             "brands": [
               {
@@ -19830,7 +19702,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2021_LM_01_acier_001_82e31d5e70.jpg"
           },
           {
             "name": "Piaget Polo Skeleton",
@@ -19976,7 +19849,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2021_American_1921_001_4e84418c45.jpg"
           },
           {
-            "name": "Big Pilots Watch 43",
+            "name": "Big Pilot's  Watch 43",
             "by": "IWC Schaffhausen",
             "brands": [
               {
@@ -20061,7 +19934,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2021_Kind_of_Two_tourbillon_0011_0b75f17a6d.jpg"
           },
           {
-            "name": "Big Pilots Watch Constant-Force Tourbillon Edition IWC Racing",
+            "name": "Big Pilot's  Watch Constant-Force Tourbillon Edition IWC Racing",
             "by": "IWC Schaffhausen",
             "brands": [
               {
@@ -20159,7 +20032,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2021_CVDK_planetarium_eise_eisinga_001_ef5ddcb64f.jpg"
           },
           {
-            "name": "Big Pilots Watch Perpetual Calendar Top Gun Edition Mojave Desert",
+            "name": "Big Pilot's  Watch Perpetual Calendar Top Gun Edition Mojave Desert",
             "by": "IWC Schaffhausen",
             "brands": [
               {
@@ -20588,7 +20461,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -20640,26 +20513,13 @@
         "name": "Artistic Crafts",
         "watches": [
           {
-            "name": "LM SE Eddy Jaquet Le Tour du Monde en 80 Jours",
-            "by": "MB&F",
-            "winner": true,
-            "brands": [
-              {
-                "name": "MB&F",
-                "role": "primary",
-                "group": "Independent"
-              }
-            ],
-            "is_collaboration": false
-          },
-          {
             "name": "Arceau Toucan de Paradis",
             "by": "Hermès",
             "brands": [
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -20714,6 +20574,7 @@
                 "group": "Independent"
               }
             ],
+            "winner": true,
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2021_LM_SE_Eddy_Jaquet_Le_Tour_du_Monde_en_80_Jours_001_9a4efae8c9.jpg"
           },
@@ -20995,7 +20856,7 @@
         "name": "Ladies'",
         "watches": [
           {
-            "name": "Tonda PF Automatique",
+            "name": "Tonda PF Automatic",
             "by": "Parmigiani Fleurier",
             "winner": true,
             "brands": [
@@ -21031,7 +20892,8 @@
                 "group": "LVMH"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2022_deferlante_secret_timepiece_001_832e25700c.jpg"
           },
           {
             "name": "Harley Quinn",
@@ -21056,7 +20918,8 @@
                 "group": "Richemont"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2022_montre_perlee_23mm_001_b45a31233f.jpg"
           },
           {
             "name": "Perpetual Moon Eclipse I",
@@ -21070,18 +20933,6 @@
             ],
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2022_perpetual_moon_eclispe_001_10aa7bdb97.jpg"
-          },
-          {
-            "name": "Tonda PF Automatic",
-            "by": "Parmigiani Fleurier",
-            "brands": [
-              {
-                "name": "Parmigiani Fleurier",
-                "role": "primary",
-                "group": "Independent"
-              }
-            ],
-            "is_collaboration": false
           }
         ],
         "original_name": "Ladies"
@@ -21099,7 +20950,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2022_tempus_Terrae_Aigue_marine_baguettes_001_e6e1a3b74a.jpg"
           },
           {
             "name": "Royal Oak Selfwinding Flying Tourbillon Ultra-Thin \"RD#3\"",
@@ -21124,7 +20976,8 @@
                 "group": "LVMH"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2022_sous_le_soleil_001_v3_eebf3b48eb.jpg"
           },
           {
             "name": "Imperiale Flying Tourbillon",
@@ -21147,7 +21000,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -21163,7 +21016,8 @@
                 "group": "Richemont"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2022_montre_lady_arpels_heures_florales_cerisier_001_183b8e40da.jpg"
           }
         ],
         "original_name": "Ladies Complication"
@@ -21260,7 +21114,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2022_une_folle_journee_noire_v3_001_ee1a457789.jpg"
           }
         ],
         "original_name": "Mens"
@@ -21315,11 +21170,11 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
-            "image": "https://cms.gphg.org/uploads/small_gphg2022_Arceau_le_temps_voyageur_0012_2128d20370.jpg"
+            "image": "https://www.gphg.org/uploads/small_gphg2022_Arceau_le_Temps_voyageur_001_85dab353b6.jpg"
           },
           {
             "name": "Tonda PF GMT Rattrapante",
@@ -21354,7 +21209,7 @@
         "name": "Iconic",
         "watches": [
           {
-            "name": "Monaco X Gulf",
+            "name": "Monaco x Gulf",
             "by": "TAG Heuer",
             "winner": true,
             "brands": [
@@ -21368,7 +21223,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2022_monaco_x_gulf_001_c7cec245b2.jpg"
           },
           {
-            "name": "Big Pilots Watch 43",
+            "name": "Big Pilot's  Watch 43",
             "by": "IWC Schaffhausen",
             "brands": [
               {
@@ -21405,19 +21260,6 @@
             ],
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2022_defy_revival_a3642_001_56439d6b33.jpg"
-          },
-          {
-            "name": "Monaco X Gulf",
-            "by": "TAG Heuer",
-            "brands": [
-              {
-                "name": "TAG Heuer",
-                "role": "primary",
-                "group": "LVMH"
-              }
-            ],
-            "is_collaboration": false,
-            "image": "https://cms.gphg.org/uploads/small_gphg2022_monaco_x_gulf_001_c7cec245b2.jpg"
           },
           {
             "name": "Navitimer B01 Chronograph 43",
@@ -21475,7 +21317,8 @@
                 "group": "Seiko Group"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2022_Tourbillon_a_force_constante_Kodo_001_d79a97110f.jpg"
           },
           {
             "name": "Pioneer Cylindrical Tourbillon Skeleton",
@@ -21722,7 +21565,8 @@
                 "group": "LVMH"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2022_octo_finissimo_10_anniversaire_001_dcb3159f97.jpg"
           },
           {
             "name": "Récital 20 Astérium",
@@ -21756,18 +21600,6 @@
             ],
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2022_Gronograf_tantal_001_dcec1bb0ef.jpg"
-          },
-          {
-            "name": "1941 Grönograaf Tantalum",
-            "by": "Grönefeld",
-            "brands": [
-              {
-                "name": "Grönefeld",
-                "role": "primary",
-                "group": "Independent"
-              }
-            ],
-            "is_collaboration": false
           },
           {
             "name": "Legacy Machine Sequential Evo",
@@ -21916,7 +21748,8 @@
                 "group": "Seiko Group"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2022_Spring_drive_5_days_Caliber_001_df6e883e3d.jpg"
           },
           {
             "name": "Superocean Automatic 42",
@@ -21938,7 +21771,7 @@
         "name": "Jewellery",
         "watches": [
           {
-            "name": "Serpenti Misteriosi Haute Joaillerie",
+            "name": "Serpenti Misteriosi High Jewellery",
             "by": "Bvlgari",
             "winner": true,
             "brands": [
@@ -22013,7 +21846,8 @@
                 "group": "Richemont"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2022_montre_perle_de_glace_rose_001_0bef8eca70.jpg"
           },
           {
             "name": "Serpenti Misteriosi High Jewellery",
@@ -22067,7 +21901,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -22083,7 +21917,8 @@
                 "group": "Richemont"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2022_montre_charms_coccinelle_feerique_001_1763382b6d.jpg"
           },
           {
             "name": "Classic Fusion Takashi Murakami Sapphire Rainbow",
@@ -22198,7 +22033,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2022_nuit_fantastique_dune_edition_001_5b3615fc2d.jpg"
           },
           {
             "name": "Defy Skyline",
@@ -22336,18 +22172,6 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2022_celestial_infinity_001_b136cc106f.jpg"
           },
           {
-            "name": "Fontaine Aux Oiseaux automaton",
-            "by": "Van Cleef & Arpels",
-            "brands": [
-              {
-                "name": "Van Cleef & Arpels",
-                "role": "primary",
-                "group": "Richemont"
-              }
-            ],
-            "is_collaboration": false
-          },
-          {
             "name": "Lebru x Silberstein KB2",
             "by": "Utinam",
             "brands": [
@@ -22383,7 +22207,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2022_the_passage_of_time_0012_a715a6b6bc.jpg"
           },
           {
             "name": "Time Fast II",
@@ -22530,7 +22355,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -22585,7 +22410,8 @@
                 "group": "Richemont"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_Ludo_Secretwatch_001_60bfeda0f7.jpg"
           },
           {
             "name": "Perpetual Moon 38 Mintnight",
@@ -22634,7 +22460,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg23_IMPERIALE_Jumping_Hour_v2_001_49a0c530db.jpg"
           },
           {
             "name": "Grand Soir Automate Etoile de Monsieur Dior",
@@ -22673,7 +22500,8 @@
                 "group": "Richemont"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_Portofino_Perpetual_Calendar_v2_001_bb8a810c3a.jpg"
           },
           {
             "name": "Tambour Fiery Heart Automata",
@@ -22985,7 +22813,8 @@
                 "group": "Unknown"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_HYT_Conical_Tourbillon_Infinity_Sapphires_v2_001_fefac132da.jpg"
           },
           {
             "name": "Grand Sport Tourbillon Pursuit",
@@ -23073,7 +22902,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2023_bovet_Recital_20_Asterium_v3_001_2c138182c0.jpg"
           },
           {
-            "name": "Big Pilots Watch Perpetual Calendar Top Gun Lake Tahoe",
+            "name": "Big Pilot's  Watch Perpetual Calendar Top Gun Lake Tahoe",
             "by": "IWC Schaffhausen",
             "brands": [
               {
@@ -23082,6 +22911,7 @@
                 "group": "Richemont"
               }
             ],
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_Big_Pilots_Watch_001_ba78600b89.jpg",
             "is_collaboration": false
           },
           {
@@ -23099,7 +22929,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_Habring_X_Massena_Lab_Chrono_Felix_Perpetual_001_8bb7854f6e.jpg"
           },
           {
             "name": "Moon phase 1",
@@ -23150,7 +22981,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_parmigiani_Tonda_Pf_Xiali_Chinese_Calendar_v2_001_e13c753eb9.jpg"
           }
         ],
         "original_name": "Calendar and Astronomy"
@@ -23194,7 +23026,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_Sphere_Series1_v2_0011_b52da5a4e3.jpg"
           },
           {
             "name": "Astronomia Revolution",
@@ -23253,7 +23086,7 @@
               }
             ],
             "is_collaboration": false,
-            "image": "https://cms.gphg.org/uploads/small_gphg2023_ap_ROC_26650_TI_OO_D013_CA_01_SDT_001_49e94b3288.jpg"
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_chronographe_rattrapante_001_b7090864ba.jpg"
           },
           {
             "name": "1969 Chrono",
@@ -23279,7 +23112,7 @@
               }
             ],
             "is_collaboration": false,
-            "image": "https://cms.gphg.org/uploads/small_gphg2023_Carrera_Chronograph_v2_001_31f41ce31f.jpg"
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_CARRERA_CHRONOGRAPH_SKIPPER_v2_001_6c07c90ba3.jpg"
           },
           {
             "name": "Chronographe rattrapante",
@@ -23474,7 +23307,8 @@
                 "group": "Richemont"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_Ludo_secret_watch_001_12ba0ef82b.jpg"
           },
           {
             "name": "Margherita Watch",
@@ -23486,7 +23320,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_Margherita_Watch_v3_001_18b53dab5c.jpg"
           },
           {
             "name": "Pure Happiness",
@@ -23583,7 +23418,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_andersen_Jumping_Hours_Rising_Sun_Edition_v2_001_cf361c0fda.jpg"
           },
           {
             "name": "Lady Duo de Lions watch",
@@ -23595,7 +23431,8 @@
                 "group": "Richemont"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_van_cleef_Lady_Duo_de_Lions_watch_v2_001_5de67161cc.jpg"
           },
           {
             "name": "Näkki",
@@ -23620,7 +23457,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_SAVANNA_TOURBILLON_Tiger_001_28811343a3.jpg"
           }
         ],
         "original_name": "Artistic Crafts"
@@ -23696,7 +23534,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_Massena_Lab_Magraph_by_Massena_LAB_and_Raul_Pages_v2_001_1ba1154120.jpg"
           },
           {
             "name": "Tudor Black Bay",
@@ -23753,7 +23592,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_raymond_weil_Millesime_automatic_small_seconds_v2_0011_6f0b97cadf.jpg"
           },
           {
             "name": "1968 Divers Modern Re-interpretation GMT",
@@ -23778,7 +23618,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_Watermel0n_001_e391dc140d.jpg"
           },
           {
             "name": "HMS 003",
@@ -23835,7 +23676,8 @@
                 "group": "Richemont"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2023_van_cleef_Eveil_du_Cyclamen_Automaton_v2_001_114833195b.jpg"
           },
           {
             "name": "Persée Azur",
@@ -24027,7 +23869,7 @@
             "image": "https://cms.gphg.org/uploads/small_v3_gphg2024_Chopard_Alpine_Eagle33_001_efde4201e2.jpg"
           },
           {
-            "name": "Montre Colours of Love Or Rose Arc-En-Ciel",
+            "name": "Colours of Love Rose Gold Rainbow Gemstone Watch",
             "by": "Fabergé",
             "brands": [
               {
@@ -24045,7 +23887,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -24170,7 +24012,7 @@
         "original_name": "Ladies Complication"
       },
       {
-        "name": "Men’s",
+        "name": "Time Only",
         "watches": [
           {
             "name": "Mirage Sienna",
@@ -24251,91 +24093,11 @@
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2024_Parmigiani_Fleurier_Tonda_PF_Micro_Rotor_No_date_001_4c1cb69178.jpg"
           }
-        ],
-        "original_name": "Mens"
+        ]
       },
       {
-        "name": "Men’s Complication",
+        "name": "Men's",
         "watches": [
-          {
-            "name": "DB Kind Of Grande Complication",
-            "by": "De Bethune",
-            "brands": [
-              {
-                "name": "De Bethune",
-                "role": "primary",
-                "group": "Independent"
-              }
-            ],
-            "winner": true,
-            "is_collaboration": false,
-            "image": "https://cms.gphg.org/uploads/small_gphg2024_De_Bethune_DB_Kindof_Grande_Complication_0011_34d58f91bf.jpg"
-          },
-          {
-            "name": "KV20i Inversé",
-            "by": "Voutilainen",
-            "brands": [
-              {
-                "name": "Voutilainen",
-                "role": "primary",
-                "group": "Independent"
-              }
-            ],
-            "winner": true,
-            "is_collaboration": false,
-            "image": "https://cms.gphg.org/uploads/small_v2_gphg2024_Voutilainen_Voutilainen_KV_20i_Reversed_001_20e48836cf.jpg"
-          },
-          {
-            "name": "Ingenieur Automatic 40",
-            "by": "IWC Schaffhausen",
-            "brands": [
-              {
-                "name": "IWC Schaffhausen",
-                "role": "primary",
-                "group": "Richemont"
-              }
-            ],
-            "is_collaboration": false
-          },
-          {
-            "name": "L.U.C Strike One",
-            "by": "Chopard",
-            "brands": [
-              {
-                "name": "Chopard",
-                "role": "primary",
-                "group": "Independent"
-              }
-            ],
-            "is_collaboration": false,
-            "image": "https://cms.gphg.org/uploads/small_gphg2024_Chopard_LUC_Strike_One_001_5e649b2f6d.jpg"
-          },
-          {
-            "name": "Long Island Evolution Master Jumper",
-            "by": "Franck Müller",
-            "brands": [
-              {
-                "name": "Franck Müller",
-                "role": "primary",
-                "group": "Independent"
-              }
-            ],
-            "is_collaboration": false,
-            "image": "https://cms.gphg.org/uploads/small_V2_gphg2024_Franck_Muller_Long_Island_Evolution_Master_Jumper_001_0457d6ed39.jpg"
-          },
-          {
-            "name": "Meca",
-            "by": "Byrne",
-            "brands": [
-              {
-                "name": "Byrne",
-                "role": "primary",
-                "group": "Independent"
-              }
-            ],
-            "is_collaboration": false,
-            "image": "https://cms.gphg.org/uploads/small_V3_gphg2024_MECA_001_2f85c30760.jpg"
-          },
           {
             "name": "Octo Finissimo Ultra Platinum",
             "by": "Bvlgari",
@@ -24348,32 +24110,6 @@
             ],
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2024_Bvlgari_octofinissimo_Ultra_Platinum_001_f1224abb92.jpg"
-          },
-          {
-            "name": "Purity Central Tourbillon Blue",
-            "by": "Artya",
-            "brands": [
-              {
-                "name": "Artya",
-                "role": "primary",
-                "group": "Independent"
-              }
-            ],
-            "is_collaboration": false,
-            "image": "https://cms.gphg.org/uploads/small_gphg2024_Artya_Purity_central_tourbillon_blue_001_81eea3f11b.jpg"
-          },
-          {
-            "name": "Remontage Manuel Hi-Beat 36000",
-            "by": "Grand Seiko",
-            "brands": [
-              {
-                "name": "Grand Seiko",
-                "role": "primary",
-                "group": "Seiko Group"
-              }
-            ],
-            "is_collaboration": false,
-            "image": "https://cms.gphg.org/uploads/small_gphg2024_Grand_Seiko_Manual_winding_Hi_beat36000_001_5818f920f8.jpg"
           },
           {
             "name": "S3 MK2",
@@ -24389,17 +24125,17 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2024_Garrick_S3_MK_2_001_451434a448.jpg"
           },
           {
-            "name": "Toric Petite Seconde Platinum",
-            "by": "Parmigiani Fleurier",
+            "name": "Remontage Manuel Hi-Beat 36000",
+            "by": "Grand Seiko",
             "brands": [
               {
-                "name": "Parmigiani Fleurier",
+                "name": "Grand Seiko",
                 "role": "primary",
-                "group": "Independent"
+                "group": "Seiko Group"
               }
             ],
             "is_collaboration": false,
-            "image": "https://cms.gphg.org/uploads/small_gphg2024_Parmigiani_Fleurier_Toric_Petite_Seconde_Platinum_001_4c8cb57289.jpg"
+            "image": "https://cms.gphg.org/uploads/small_gphg2024_Grand_Seiko_Manual_winding_Hi_beat36000_001_5818f920f8.jpg"
           },
           {
             "name": "Tsunami \"Art Déco\"",
@@ -24413,6 +24149,118 @@
             ],
             "is_collaboration": false,
             "image": "https://cms.gphg.org/uploads/small_gphg2024_Hajime_Aosaka_Tsunami_Art_Deco_001_46bd0b8d43.jpg"
+          },
+          {
+            "name": "Toric Petite Seconde Platinum",
+            "by": "Parmigiani Fleurier",
+            "brands": [
+              {
+                "name": "Parmigiani Fleurier",
+                "role": "primary",
+                "group": "Independent"
+              }
+            ],
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2024_Parmigiani_Fleurier_Toric_Petite_Seconde_Platinum_001_4c8cb57289.jpg"
+          },
+          {
+            "name": "KV20i Inversé",
+            "by": "Voutilainen",
+            "brands": [
+              {
+                "name": "Voutilainen",
+                "role": "primary",
+                "group": "Independent"
+              }
+            ],
+            "winner": true,
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_v2_gphg2024_Voutilainen_Voutilainen_KV_20i_Reversed_001_20e48836cf.jpg"
+          }
+        ],
+        "original_name": "Mens"
+      },
+      {
+        "name": "Men’s Complication",
+        "watches": [
+          {
+            "name": "Purity Central Tourbillon Blue",
+            "by": "Artya",
+            "brands": [
+              {
+                "name": "Artya",
+                "role": "primary",
+                "group": "Independent"
+              }
+            ],
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2024_Artya_Purity_central_tourbillon_blue_001_81eea3f11b.jpg"
+          },
+          {
+            "name": "Meca",
+            "by": "Byrne",
+            "brands": [
+              {
+                "name": "Byrne",
+                "role": "primary",
+                "group": "Independent"
+              }
+            ],
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_V3_gphg2024_MECA_001_2f85c30760.jpg"
+          },
+          {
+            "name": "L.U.C Strike One",
+            "by": "Chopard",
+            "brands": [
+              {
+                "name": "Chopard",
+                "role": "primary",
+                "group": "Independent"
+              }
+            ],
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2024_Chopard_LUC_Strike_One_001_5e649b2f6d.jpg"
+          },
+          {
+            "name": "DB Kind Of Grande Complication",
+            "by": "De Bethune",
+            "brands": [
+              {
+                "name": "De Bethune",
+                "role": "primary",
+                "group": "Independent"
+              }
+            ],
+            "winner": true,
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2024_De_Bethune_DB_Kindof_Grande_Complication_0011_34d58f91bf.jpg"
+          },
+          {
+            "name": "Long Island Evolution Master Jumper",
+            "by": "Franck Müller",
+            "brands": [
+              {
+                "name": "Franck Müller",
+                "role": "primary",
+                "group": "Independent"
+              }
+            ],
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_V2_gphg2024_Franck_Muller_Long_Island_Evolution_Master_Jumper_001_0457d6ed39.jpg"
+          },
+          {
+            "name": "Heures Universelles",
+            "by": "Kazuo Maeda",
+            "brands": [
+              {
+                "name": "Kazuo Maeda",
+                "role": "primary",
+                "group": "Independent"
+              }
+            ],
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_v2_gphg2024_Kazuo_Maeda_Heures_Universelles_001_d1950a4712.jpg"
           }
         ],
         "original_name": "Complication pour Homme"
@@ -25057,7 +24905,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -25414,7 +25262,8 @@
                 "group": "LVMH"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2025_Louis_Vuitton_Tambour_Convergenceblue_v2_001_330f32e8b4.jpg"
           },
           {
             "name": "Sixtie",
@@ -25520,7 +25369,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -25555,7 +25404,8 @@
                 "group": "LVMH"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2025_Daniel_Roth_Extraplatrosegold_001_a86d748e1c.jpg"
           },
           {
             "name": "Project 21",
@@ -25619,7 +25469,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2025_Tasaki_Faceoftasakiblackmotherofpearl_v2_001_a35f7b96f7.jpg"
           }
         ],
         "original_name": "Time Only"
@@ -25650,7 +25501,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2025_Garrick_S3_Deadbeat_Seconds_Powerreserve_001_9fe4d78285.jpg"
           },
           {
             "name": "Spring Drive U.F.A.",
@@ -25679,7 +25531,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2025_Laurent_Ferrier_Classicautohorizon_v2_001_85381245b7.jpg"
           },
           {
-            "name": "UJ-2 Double wheel natural escapement",
+            "name": "UJ-2: Double wheel natural escapement",
             "by": "Urban Jürgensen",
             "brands": [
               {
@@ -25688,7 +25540,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2025_Urban_Jurgensen_The_Threehandwatchwithwheelnaturalescapement_001_af49214597.jpg"
           },
           {
             "name": "G.F.J. Calibre 135",
@@ -25782,7 +25635,7 @@
             "image": "https://cms.gphg.org/uploads/small_gphg2025_parmigianifleurier_Toric_Quatiemeperpetuel_001_a371c17818.jpg"
           },
           {
-            "name": "UJ-3 Perpetual Calendar with Double Wheel Escapement",
+            "name": "UJ-3: Perpetual Calendar with Double Wheel Escapement",
             "by": "Urban Jürgensen",
             "brands": [
               {
@@ -25791,7 +25644,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2025_Urban_Jurgensen_doublewheelnaturalperpetualcalendarwithinstantaneousmoonphase_001_e79b3eea4a.jpg"
           }
         ],
         "original_name": "Mens Complication"
@@ -25945,10 +25799,11 @@
                 "group": "LVMH"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2025_Louis_Vuitton_Tambour_Taiko_Spin_Time_Air_Flying_Tourbillon_001_5e9c2faec4.jpg"
           },
           {
-            "name": "UJ-1 250th Anniversary tourbillon remontoire dégalité",
+            "name": "UJ-1: 250th Anniversary Tourbillon remontoire d'égalité",
             "by": "Urban Jürgensen",
             "brands": [
               {
@@ -25957,7 +25812,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2025_Urban_Jurgensen_the250anniversarywatchaoneminuteflyingtourbillon_001_81fc2a6b02.jpg"
           }
         ],
         "original_name": "Tourbillon"
@@ -26001,7 +25857,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2025_Hazemannand_Monnin_Hazemannand_Monninschoolwatchsubscription_001_8a3ff38a8e.jpg"
           },
           {
             "name": "Escale au Pont-Neuf",
@@ -26071,7 +25928,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2025_Angelus_Chronographetelemetreyellowgold_0011_7a7be4a5d2.jpg"
           },
           {
             "name": "Royal Oak Concept Split-Seconds Chronograph GMT Large Date",
@@ -26122,7 +25980,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2025_MING_20_01_Series5_001_67241ebc79.jpg"
           }
         ],
         "original_name": "Chronograph"
@@ -26318,7 +26177,7 @@
               {
                 "name": "Hermès",
                 "role": "primary",
-                "group": "Hermès"
+                "group": "Independent"
               }
             ],
             "is_collaboration": false,
@@ -26502,7 +26361,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2025_Behrens_Orion_One_v2_001_528c9ae406.jpg"
           },
           {
             "name": "C1 Celestial Moonphase x Mr Jones Watches",
@@ -26527,7 +26387,8 @@
                 "group": "Independent"
               }
             ],
-            "is_collaboration": false
+            "is_collaboration": false,
+            "image": "https://cms.gphg.org/uploads/small_gphg2025_Dennison_Natural_Stone_Tiger_Eyesin_Gold_v2_001_b338c57c13.jpg"
           },
           {
             "name": "Jubilee Sensu EOL Shiraai",
